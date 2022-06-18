@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 5rem;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+#about {
+  padding-top: 5rem;
+  text-align: center;
+}
+
+#projects {
+  padding-top: 5rem;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+#contact {
+  padding-top: 3rem;
+}
